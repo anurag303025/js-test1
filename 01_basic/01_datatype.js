@@ -7,4 +7,5 @@ console.log(3+3);//code readebility code ko line wise likho
 let name="abhi"
 let age=21
 let isLoggedIn=false
-console.log(typeof isLoggedIn)
+let age1=89
+console.log(typeof age1)
